@@ -41,6 +41,17 @@ To use, first download the above required applications in [Installation](#instal
 ## Contributors:
 - Homework code source and instruction: https://git.bootcampcontent.com/Michigan-State-University/MSU-VIRT-FSF-PT-07-2023-U-LOLC
 
+- Homework help: 
+Youtube: https://www.youtube.com/@GreatStackDev/about
+
+Github code example observed : https://github.com/aleksandr-rakov/password-generator
+
+Classmates:     
+https://github.com/mrsargent00
+https://github.com/benrodriguezmoran
+https://github.com/kylesunman
+
+
   ## Questions?
 
   ### Reach me here:
